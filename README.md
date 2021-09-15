@@ -47,7 +47,7 @@ Esse endpoint é responsável por fazer o processo de login.
 #### Parametros
 email: E-mail do usuário cadastrado no sistema.
 
-password: Senha do usuario cadastrado no sistema, com aquele determinado e-mail.
+senha: Senha do usuario cadastrado no sistema, com aquele determinado e-mail.
 
 Exemplo:
 ```
